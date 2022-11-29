@@ -1,0 +1,8 @@
+info1:3.5
+
+# comment
+
+info2: 4
+
+BWL: 3
+
