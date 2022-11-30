@@ -42,3 +42,4 @@ class BankAccount:
             self._balance -= convert(amount, currency, self._currency)
         if self._balance < 0:
             raise Warning("Balance negative")
+        print("Hi")
