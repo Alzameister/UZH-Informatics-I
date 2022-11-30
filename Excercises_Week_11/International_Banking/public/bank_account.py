@@ -44,3 +44,4 @@ class BankAccount:
             raise Warning("Balance negative")
         print("Hi")
         print("This is test_1")
+        print("Test 2")
